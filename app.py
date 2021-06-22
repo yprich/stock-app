@@ -7,7 +7,7 @@ import datetime
 # App title
 st.markdown('''
 # S&P 500 ML Aggregator
-Shown are the stock price data for query companies!
+Shown are the live stock price data and Bolinger Band visualizations for all S&P 500 companies!
 
 **Credits**
 - App built by [Yashas Pradeep](https://www.linkedin.com/in/yashas-pradeep-b8b560191) 
