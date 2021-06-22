@@ -10,13 +10,13 @@ st.markdown('''
 Shown are the stock price data for query companies!
 
 **Credits**
-- App built by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
+- App built by [Yashas Pradeep](https://www.linkedin.com/in/yashas-pradeep-b8b560191) 
 - Built in `Python` using `streamlit`,`yfinance`, `cufflinks`, `pandas` and `datetime`
 ''')
 st.write('---')
 
 # Sidebar
-st.sidebar.subheader('Query parameters')
+st.sidebar.subheader('Enter Stock Parameters')
 start_date = st.sidebar.date_input("Start date", datetime.date(2019, 1, 1))
 end_date = st.sidebar.date_input("End date", datetime.date(2021, 1, 31))
 
