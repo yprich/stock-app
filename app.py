@@ -6,7 +6,7 @@ import datetime
 
 # App title
 st.markdown('''
-# Stock Price App
+# S&P 500 ML Aggregator
 Shown are the stock price data for query companies!
 
 **Credits**
