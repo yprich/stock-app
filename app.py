@@ -11,7 +11,7 @@ Shown are the live stock price data and Bolinger Band visualizations for all S&P
 
 **Credits**
 - App built by [Yashas Pradeep](https://www.linkedin.com/in/yashas-pradeep-b8b560191) 
-- Built in `Python` using `streamlit`,`yfinance`, `cufflinks`, `pandas`, `matplot lib`, and `datetime`
+- Built in `Python` using `streamlit`,`yfinance`, `cufflinks`, `pandas`, and `datetime`
 ''')
 st.write('---')
 
